@@ -1,6 +1,8 @@
 # fintech_finder
 
+
 The **fintech_finder**  is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. 
+
 ---
 
 ## Technologies
